@@ -1,0 +1,513 @@
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-pgrms00-02.yf01i "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-pgrms00-02.yf01i "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 ihz01-imps-data01-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 ihz01-imps-data01-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms00-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms00-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms01-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms01-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 change data on host: success
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms02-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms02-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 change data on host: success
+INFO: 2013-01-07 22:15:55 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms03-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:15:55 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms03-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:15:55 +0800 change data on host: success
+INFO: 2013-01-07 22:15:55 +0800 change data on host: success
+INFO: 2013-01-07 22:15:56 +0800 change data on host: success
+INFO: 2013-01-07 22:15:56 +0800 change data on host: success
+INFO: 2013-01-07 22:15:56 +0800 change data on host: success
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-pgrms00-02.yf01i "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-pgrms00-02.yf01i "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 ihz01-imps-data01-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 ihz01-imps-data01-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data01-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms00-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms00-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms01-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms01-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 change data on host:yf-imps-data01-retrms00-00.yf01 success
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms02-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms02-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 change data on host:yf-imps-data01-retrms01-00.yf01 success
+INFO: 2013-01-07 22:17:11 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms03-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new "
+INFO: 2013-01-07 22:17:11 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 yf-imps-data01-retrms03-00.yf01 "[ -d /home/work/dynamic_data/restart/model.new ] && echo model.new " timeout:120
+INFO: 2013-01-07 22:17:11 +0800 change data on host:yf-imps-data01-retrms02-00.yf01 success
+INFO: 2013-01-07 22:17:11 +0800 change data on host:yf-imps-data01-retrms03-00.yf01 success
+INFO: 2013-01-07 22:17:11 +0800 change data on host:hz01-imps-data01-retrms00-00.hz01 success
+INFO: 2013-01-07 22:17:11 +0800 change data on host:hz01-imps-data01-retrms03-00.hz01 success
+INFO: 2013-01-07 22:17:11 +0800 change data on host:hz01-imps-data01-retrms01-00.hz01 success
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms00-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms01-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms02-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 hz01-imps-data00-retrms03-00.hz01 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms00-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms00-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms01-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms01-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms02-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms02-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:31 +0800 /usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms03-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model"
+INFO: 2013-01-07 23:41:31 +0800 func:exec_block cmd:/usr/bin/ssh -o ConnectTimeout=10 -o ServerAliveInterval=5 -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o ConnectionAttempts=4 m1-imps-data00-retrms03-00.m1 "[ -d /home/work/dynamic_data/restart/model.new ] && rm -rf /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/retrms/model /home/work/dynamic_data/retrms/model.bak && mv /home/work/dynamic_data/restart/model.new /home/work/dynamic_data/retrms/model" timeout:120
+INFO: 2013-01-07 23:41:37 +0800 change data on host:m1-imps-data00-retrms00-00.m1 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:hz01-imps-data00-retrms00-00.hz01 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:m1-imps-data00-retrms03-00.m1 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:m1-imps-data00-retrms01-00.m1 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:hz01-imps-data00-retrms02-00.hz01 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:m1-imps-data00-retrms02-00.m1 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:hz01-imps-data00-retrms01-00.hz01 success
+INFO: 2013-01-07 23:41:37 +0800 change data on host:hz01-imps-data00-retrms03-00.hz01 success
+INFO: 2013-01-07 23:46:03 +0800 change data on host:cq01-imads-rms00-02.cq01 success
+INFO: 2013-01-07 23:46:03 +0800 change data on host:cq01-imads-rms02-00.cq01 success
+INFO: 2013-01-07 23:46:04 +0800 change data on host:cq01-imads-rms00-01.cq01 success
+INFO: 2013-01-07 23:46:04 +0800 change data on host:cq01-imads-rms01-03.cq01 success
+INFO: 2013-01-07 23:46:04 +0800 change data on host:cq01-imads-rms01-00.cq01 success
+INFO: 2013-01-07 23:46:04 +0800 change data on host:cq01-imads-rms00-03.cq01 success
+INFO: 2013-01-07 23:46:04 +0800 change data on host:cq01-imads-rms01-01.cq01 success
+INFO: 2013-01-07 23:46:05 +0800 change data on host:cq01-imads-rms01-02.cq01 success
+INFO: 2013-01-07 23:46:05 +0800 change data on host:cq01-imads-rms00-00.cq01 success
+INFO: 2013-01-07 23:46:05 +0800 change data on host:cq01-imads-rms02-01.cq01 success
+INFO: 2013-01-07 23:46:15 +0800 change data on host:cq01-imads-rms02-07.cq01 success
+INFO: 2013-01-07 23:46:15 +0800 change data on host:cq01-imads-rms02-02.cq01 success
+INFO: 2013-01-07 23:46:15 +0800 change data on host:cq01-imads-rms02-05.cq01 success
+INFO: 2013-01-07 23:46:15 +0800 change data on host:cq01-imads-rms03-00.cq01 success
+INFO: 2013-01-07 23:46:16 +0800 change data on host:cq01-imads-rms02-04.cq01 success
+INFO: 2013-01-07 23:46:16 +0800 change data on host:cq01-imads-rms02-06.cq01 success
+INFO: 2013-01-07 23:46:16 +0800 change data on host:cq01-imads-rms03-03.cq01 success
+INFO: 2013-01-07 23:46:17 +0800 change data on host:cq01-imads-rms02-03.cq01 success
+INFO: 2013-01-07 23:46:17 +0800 change data on host:cq01-imads-rms03-01.cq01 success
+INFO: 2013-01-07 23:46:18 +0800 change data on host:cq01-imads-rms03-02.cq01 success
+INFO: 2013-01-07 23:46:25 +0800 change data on host:cq01-imads-rms03-04.cq01 success
+INFO: 2013-01-07 23:46:27 +0800 change data on host:cq01-imads-rms03-06.cq01 success
+INFO: 2013-01-07 23:46:28 +0800 change data on host:cq01-imads-rms03-05.cq01 success
+INFO: 2013-01-07 23:46:28 +0800 change data on host:cq01-imps-rms00-15.cq01 success
+INFO: 2013-01-07 23:46:28 +0800 change data on host:cq01-imps-rms00-17.cq01 success
+INFO: 2013-01-07 23:46:28 +0800 change data on host:cq01-imps-rms00-16.cq01 success
+INFO: 2013-01-07 23:46:29 +0800 change data on host:cq01-imads-rms03-07.cq01 success
+INFO: 2013-01-07 23:46:30 +0800 change data on host:cq01-imps-rms00-18.cq01 success
+INFO: 2013-01-07 23:46:30 +0800 change data on host:cq01-imps-rms00-14.cq01 success
+INFO: 2013-01-07 23:46:30 +0800 change data on host:cq01-imps-rms00-19.cq01 success
+INFO: 2013-01-07 23:46:37 +0800 change data on host:cq01-imps-rms00-20.cq01 success
+INFO: 2013-01-07 23:46:40 +0800 change data on host:cq01-imps-rms00-21.cq01 success
+INFO: 2013-01-07 23:46:41 +0800 change data on host:cq01-imps-rms01-14.cq01 success
+INFO: 2013-01-07 23:46:41 +0800 change data on host:cq01-imps-rms01-16.cq01 success
+INFO: 2013-01-07 23:46:41 +0800 change data on host:cq01-imps-rms00-22.cq01 success
+INFO: 2013-01-07 23:46:41 +0800 change data on host:cq01-imps-rms00-23.cq01 success
+INFO: 2013-01-07 23:46:42 +0800 change data on host:cq01-imps-rms01-17.cq01 success
+INFO: 2013-01-07 23:46:42 +0800 change data on host:cq01-imps-rms01-15.cq01 success
+INFO: 2013-01-07 23:46:43 +0800 change data on host:cq01-imps-rms01-18.cq01 success
+INFO: 2013-01-07 23:46:43 +0800 change data on host:cq01-imps-rms01-19.cq01 success
+INFO: 2013-01-07 23:46:50 +0800 change data on host:cq01-imps-rms01-20.cq01 success
+INFO: 2013-01-07 23:46:53 +0800 change data on host:cq01-imps-rms01-22.cq01 success
+INFO: 2013-01-07 23:46:53 +0800 change data on host:cq01-imps-rms01-23.cq01 success
+INFO: 2013-01-07 23:46:53 +0800 change data on host:cq01-imps-rms02-00.cq01 success
+INFO: 2013-01-07 23:46:53 +0800 change data on host:cq01-imps-rms02-01.cq01 success
+INFO: 2013-01-07 23:46:54 +0800 change data on host:cq01-imps-rms01-21.cq01 success
+INFO: 2013-01-07 23:46:54 +0800 change data on host:cq01-imps-rms02-04.cq01 success
+INFO: 2013-01-07 23:46:55 +0800 change data on host:cq01-imps-rms02-02.cq01 success
+INFO: 2013-01-07 23:46:55 +0800 change data on host:cq01-imps-rms02-03.cq01 success
+INFO: 2013-01-07 23:46:55 +0800 change data on host:cq01-imps-rms02-05.cq01 success
+INFO: 2013-01-07 23:47:02 +0800 change data on host:cq01-imps-rms02-06.cq01 success
+INFO: 2013-01-07 23:47:04 +0800 change data on host:cq01-imps-rms02-07.cq01 success
+INFO: 2013-01-07 23:47:05 +0800 change data on host:cq01-imps-rms02-10.cq01 success
+INFO: 2013-01-07 23:47:05 +0800 change data on host:cq01-imps-rms02-08.cq01 success
+INFO: 2013-01-07 23:47:06 +0800 change data on host:cq01-imps-rms02-09.cq01 success
+INFO: 2013-01-07 23:47:06 +0800 change data on host:cq01-imps-rms02-13.cq01 success
+INFO: 2013-01-07 23:47:06 +0800 change data on host:cq01-imps-rms02-12.cq01 success
+INFO: 2013-01-07 23:47:07 +0800 change data on host:cq01-imps-rms02-11.cq01 success
+INFO: 2013-01-07 23:47:08 +0800 change data on host:cq01-imps-rms02-15.cq01 success
+INFO: 2013-01-07 23:47:08 +0800 change data on host:cq01-imps-rms02-14.cq01 success
+INFO: 2013-01-07 23:47:14 +0800 change data on host:cq01-imps-rms02-16.cq01 success
+INFO: 2013-01-07 23:47:17 +0800 change data on host:cq01-imps-rms02-21.cq01 success
+INFO: 2013-01-07 23:47:17 +0800 change data on host:cq01-imps-rms02-20.cq01 success
+INFO: 2013-01-07 23:47:18 +0800 change data on host:cq01-imps-rms02-17.cq01 success
+INFO: 2013-01-07 23:47:19 +0800 change data on host:cq01-imps-rms02-19.cq01 success
+INFO: 2013-01-07 23:47:19 +0800 change data on host:cq01-imps-rms03-02.cq01 success
+INFO: 2013-01-07 23:47:19 +0800 change data on host:cq01-imps-rms02-22.cq01 success
+INFO: 2013-01-07 23:47:19 +0800 change data on host:cq01-imps-rms03-00.cq01 success
+INFO: 2013-01-07 23:47:20 +0800 change data on host:cq01-imps-rms03-01.cq01 success
+INFO: 2013-01-07 23:47:20 +0800 change data on host:cq01-imps-rms03-03.cq01 success
+INFO: 2013-01-07 23:47:26 +0800 change data on host:cq01-imps-rms03-04.cq01 success
+INFO: 2013-01-07 23:47:29 +0800 change data on host:cq01-imps-rms03-06.cq01 success
+INFO: 2013-01-07 23:47:29 +0800 change data on host:cq01-imps-rms03-07.cq01 success
+INFO: 2013-01-07 23:47:29 +0800 change data on host:cq01-imps-rms03-05.cq01 success
+INFO: 2013-01-07 23:47:31 +0800 change data on host:cq01-imps-rms03-10.cq01 success
+INFO: 2013-01-07 23:47:31 +0800 change data on host:cq01-imps-rms03-08.cq01 success
+INFO: 2013-01-07 23:47:32 +0800 change data on host:cq01-imps-rms03-09.cq01 success
+INFO: 2013-01-07 23:47:32 +0800 change data on host:cq01-imps-rms03-11.cq01 success
+INFO: 2013-01-07 23:47:32 +0800 change data on host:cq01-imps-rms03-13.cq01 success
+INFO: 2013-01-07 23:47:33 +0800 change data on host:cq01-imps-rms03-12.cq01 success
+INFO: 2013-01-07 23:47:39 +0800 change data on host:cq01-imps-rms03-14.cq01 success
+INFO: 2013-01-07 23:47:41 +0800 change data on host:cq01-imps-rms03-16.cq01 success
+INFO: 2013-01-07 23:47:41 +0800 change data on host:cq01-imps-rms03-15.cq01 success
+INFO: 2013-01-07 23:47:42 +0800 change data on host:cq01-imps-rms03-17.cq01 success
+INFO: 2013-01-07 23:47:43 +0800 change data on host:cq01-imps-rms03-19.cq01 success
+INFO: 2013-01-07 23:47:43 +0800 change data on host:cq01-imps-rms03-20.cq01 success
+INFO: 2013-01-07 23:47:44 +0800 change data on host:dbl-imps-retrms00-00.dbl01 success
+INFO: 2013-01-07 23:47:44 +0800 change data on host:cq01-imps-rms03-21.cq01 success
+INFO: 2013-01-07 23:47:44 +0800 change data on host:cq01-imps-rms03-22.cq01 success
+INFO: 2013-01-07 23:47:45 +0800 change data on host:dbl-imps-retrms00-01.dbl01 success
+INFO: 2013-01-07 23:47:51 +0800 change data on host:dbl-imps-retrms00-02.dbl01 success
+INFO: 2013-01-07 23:47:53 +0800 change data on host:dbl-imps-retrms01-00.dbl01 success
+INFO: 2013-01-07 23:47:53 +0800 change data on host:dbl-imps-retrms01-01.dbl01 success
+INFO: 2013-01-07 23:47:54 +0800 change data on host:dbl-imps-retrms02-00.dbl01 success
+INFO: 2013-01-07 23:47:54 +0800 change data on host:dbl-imps-retrms02-02.dbl01 success
+INFO: 2013-01-07 23:47:55 +0800 change data on host:dbl-imps-retrms02-01.dbl01 success
+INFO: 2013-01-07 23:47:56 +0800 change data on host:dbl-imps-retrms02-03.dbl01 success
+INFO: 2013-01-07 23:47:56 +0800 change data on host:dbl-imps-retrms02-04.dbl01 success
+INFO: 2013-01-07 23:47:57 +0800 change data on host:dbl-imps-retrms03-01.dbl01 success
+INFO: 2013-01-07 23:47:57 +0800 change data on host:dbl-imps-retrms03-00.dbl01 success
+INFO: 2013-01-07 23:48:02 +0800 change data on host:dbl-imps-retrms03-02.dbl01 success
+INFO: 2013-01-07 23:48:05 +0800 change data on host:dbl-imps-retrms03-03.dbl01 success
+INFO: 2013-01-07 23:48:06 +0800 change data on host:dbl-imps-retrms03-04.dbl01 success
+INFO: 2013-01-07 23:48:07 +0800 change data on host:hz01-imps-rms00-00.hz01 success
+INFO: 2013-01-07 23:48:07 +0800 change data on host:dbl-imps-retrms03-05.dbl01 success
+INFO: 2013-01-07 23:48:07 +0800 change data on host:hz01-imps-rms00-02.hz01 success
+INFO: 2013-01-07 23:48:07 +0800 change data on host:hz01-imps-rms00-01.hz01 success
+INFO: 2013-01-07 23:48:08 +0800 change data on host:hz01-imps-rms00-03.hz01 success
+INFO: 2013-01-07 23:48:09 +0800 change data on host:hz01-imps-rms00-04.hz01 success
+INFO: 2013-01-07 23:48:09 +0800 change data on host:hz01-imps-rms00-05.hz01 success
+INFO: 2013-01-07 23:48:15 +0800 change data on host:hz01-imps-rms00-06.hz01 success
+INFO: 2013-01-07 23:48:17 +0800 change data on host:hz01-imps-rms00-07.hz01 success
+INFO: 2013-01-07 23:48:19 +0800 change data on host:hz01-imps-rms00-10.hz01 success
+INFO: 2013-01-07 23:48:19 +0800 change data on host:hz01-imps-rms00-09.hz01 success
+INFO: 2013-01-07 23:48:19 +0800 change data on host:hz01-imps-rms00-08.hz01 success
+INFO: 2013-01-07 23:48:19 +0800 change data on host:hz01-imps-rms00-11.hz01 success
+INFO: 2013-01-07 23:48:20 +0800 change data on host:hz01-imps-rms00-12.hz01 success
+INFO: 2013-01-07 23:48:20 +0800 change data on host:hz01-imps-rms00-13.hz01 success
+INFO: 2013-01-07 23:48:20 +0800 change data on host:hz01-imps-rms01-01.hz01 success
+INFO: 2013-01-07 23:48:21 +0800 change data on host:hz01-imps-rms01-00.hz01 success
+INFO: 2013-01-07 23:48:28 +0800 change data on host:hz01-imps-rms01-02.hz01 success
+INFO: 2013-01-07 23:48:28 +0800 change data on host:hz01-imps-rms01-03.hz01 success
+INFO: 2013-01-07 23:48:30 +0800 change data on host:hz01-imps-rms01-04.hz01 success
+INFO: 2013-01-07 23:48:31 +0800 change data on host:hz01-imps-rms01-07.hz01 success
+INFO: 2013-01-07 23:48:31 +0800 change data on host:hz01-imps-rms01-05.hz01 success
+INFO: 2013-01-07 23:48:31 +0800 change data on host:hz01-imps-rms01-09.hz01 success
+INFO: 2013-01-07 23:48:32 +0800 change data on host:hz01-imps-rms01-06.hz01 success
+INFO: 2013-01-07 23:48:32 +0800 change data on host:hz01-imps-rms01-08.hz01 success
+INFO: 2013-01-07 23:48:33 +0800 change data on host:hz01-imps-rms01-10.hz01 success
+INFO: 2013-01-07 23:48:33 +0800 change data on host:hz01-imps-rms01-11.hz01 success
+INFO: 2013-01-07 23:48:39 +0800 change data on host:hz01-imps-rms01-13.hz01 success
+INFO: 2013-01-07 23:48:41 +0800 change data on host:hz01-imps-rms01-12.hz01 success
+INFO: 2013-01-07 23:48:43 +0800 change data on host:hz01-imps-rms02-00.hz01 success
+INFO: 2013-01-07 23:48:43 +0800 change data on host:hz01-imps-rms02-04.hz01 success
+INFO: 2013-01-07 23:48:43 +0800 change data on host:hz01-imps-rms02-01.hz01 success
+INFO: 2013-01-07 23:48:43 +0800 change data on host:hz01-imps-rms02-03.hz01 success
+INFO: 2013-01-07 23:48:44 +0800 change data on host:hz01-imps-rms02-02.hz01 success
+INFO: 2013-01-07 23:48:44 +0800 change data on host:hz01-imps-rms02-05.hz01 success
+INFO: 2013-01-07 23:48:45 +0800 change data on host:hz01-imps-rms02-06.hz01 success
+INFO: 2013-01-07 23:48:45 +0800 change data on host:hz01-imps-rms02-07.hz01 success
+INFO: 2013-01-07 23:48:51 +0800 change data on host:hz01-imps-rms02-08.hz01 success
+INFO: 2013-01-07 23:48:53 +0800 change data on host:hz01-imps-rms02-09.hz01 success
+INFO: 2013-01-07 23:48:55 +0800 change data on host:hz01-imps-rms02-10.hz01 success
+INFO: 2013-01-07 23:48:55 +0800 change data on host:hz01-imps-rms02-11.hz01 success
+INFO: 2013-01-07 23:48:56 +0800 change data on host:hz01-imps-rms02-12.hz01 success
+INFO: 2013-01-07 23:48:56 +0800 change data on host:hz01-imps-rms03-00.hz01 success
+INFO: 2013-01-07 23:48:57 +0800 change data on host:hz01-imps-rms03-01.hz01 success
+INFO: 2013-01-07 23:48:57 +0800 change data on host:hz01-imps-rms02-13.hz01 success
+INFO: 2013-01-07 23:48:57 +0800 change data on host:hz01-imps-rms03-02.hz01 success
+INFO: 2013-01-07 23:48:58 +0800 change data on host:hz01-imps-rms03-03.hz01 success
+INFO: 2013-01-07 23:49:03 +0800 change data on host:hz01-imps-rms03-04.hz01 success
+INFO: 2013-01-07 23:49:05 +0800 change data on host:hz01-imps-rms03-05.hz01 success
+INFO: 2013-01-07 23:49:07 +0800 change data on host:hz01-imps-rms03-06.hz01 success
+INFO: 2013-01-07 23:49:07 +0800 change data on host:hz01-imps-rms03-08.hz01 success
+INFO: 2013-01-07 23:49:07 +0800 change data on host:hz01-imps-rms03-07.hz01 success
+INFO: 2013-01-07 23:49:08 +0800 change data on host:hz01-imps-rms03-09.hz01 success
+INFO: 2013-01-07 23:49:08 +0800 change data on host:hz01-imps-rms03-10.hz01 success
+INFO: 2013-01-07 23:49:09 +0800 change data on host:hz01-imps-rms03-11.hz01 success
+INFO: 2013-01-07 23:49:09 +0800 change data on host:hz01-imps-rms03-12.hz01 success
+INFO: 2013-01-07 23:49:11 +0800 change data on host:hz01-imps-rms03-13.hz01 success
+INFO: 2013-01-07 23:49:15 +0800 change data on host:m1-imps-rms00-14.m1 success
+INFO: 2013-01-07 23:49:17 +0800 change data on host:m1-imps-rms00-15.m1 success
+INFO: 2013-01-07 23:49:19 +0800 change data on host:m1-imps-rms00-17.m1 success
+INFO: 2013-01-07 23:49:20 +0800 change data on host:m1-imps-rms00-23.m1 success
+INFO: 2013-01-07 23:49:20 +0800 change data on host:m1-imps-rms00-18.m1 success
+INFO: 2013-01-07 23:49:20 +0800 change data on host:m1-imps-rms00-16.m1 success
+INFO: 2013-01-07 23:49:20 +0800 change data on host:m1-imps-rms00-24.m1 success
+INFO: 2013-01-07 23:49:21 +0800 change data on host:m1-imps-rms00-26.m1 success
+INFO: 2013-01-07 23:49:21 +0800 change data on host:m1-imps-rms00-25.m1 success
+INFO: 2013-01-07 23:49:24 +0800 change data on host:m1-imps-rms00-27.m1 success
+INFO: 2013-01-07 23:49:26 +0800 change data on host:m1-imps-rms00-28.m1 success
+INFO: 2013-01-07 23:49:29 +0800 change data on host:m1-imps-rms01-14.m1 success
+INFO: 2013-01-07 23:49:31 +0800 change data on host:m1-imps-rms01-16.m1 success
+INFO: 2013-01-07 23:49:31 +0800 change data on host:m1-imps-rms01-15.m1 success
+INFO: 2013-01-07 23:49:31 +0800 change data on host:m1-imps-rms01-17.m1 success
+INFO: 2013-01-07 23:49:32 +0800 change data on host:m1-imps-rms01-18.m1 success
+INFO: 2013-01-07 23:49:32 +0800 change data on host:m1-imps-rms01-19.m1 success
+INFO: 2013-01-07 23:49:33 +0800 change data on host:m1-imps-rms01-24.m1 success
+INFO: 2013-01-07 23:49:34 +0800 change data on host:m1-imps-rms01-23.m1 success
+INFO: 2013-01-07 23:49:35 +0800 change data on host:m1-imps-rms01-25.m1 success
+INFO: 2013-01-07 23:49:40 +0800 change data on host:m1-imps-rms01-26.m1 success
+INFO: 2013-01-07 23:49:41 +0800 change data on host:m1-imps-rms01-27.m1 success
+INFO: 2013-01-07 23:49:43 +0800 change data on host:m1-imps-rms01-28.m1 success
+INFO: 2013-01-07 23:49:43 +0800 change data on host:m1-imps-rms02-15.m1 success
+INFO: 2013-01-07 23:49:43 +0800 change data on host:m1-imps-rms02-16.m1 success
+INFO: 2013-01-07 23:49:44 +0800 change data on host:m1-imps-rms02-17.m1 success
+INFO: 2013-01-07 23:49:44 +0800 change data on host:m1-imps-rms02-14.m1 success
+INFO: 2013-01-07 23:49:44 +0800 change data on host:m1-imps-rms03-16.m1 success
+INFO: 2013-01-07 23:49:46 +0800 change data on host:m1-imps-rms03-17.m1 success
+INFO: 2013-01-07 23:49:49 +0800 change data on host:m1-imps-rms03-18.m1 success
+INFO: 2013-01-07 23:49:52 +0800 change data on host:m1-imps-rms03-19.m1 success
+INFO: 2013-01-07 23:49:54 +0800 change data on host:m1-imps-rms03-24.m1 success
+INFO: 2013-01-07 23:49:54 +0800 change data on host:m1-imps-rms03-20.m1 success
+INFO: 2013-01-07 23:49:55 +0800 change data on host:st01-imps-retrms00-00.st01 success
+INFO: 2013-01-07 23:49:55 +0800 change data on host:st01-imps-retrms00-01.st01 success
+INFO: 2013-01-07 23:49:56 +0800 change data on host:m1-imps-rms03-25.m1 success
+INFO: 2013-01-07 23:49:57 +0800 change data on host:m1-imps-rms03-23.m1 success
+INFO: 2013-01-07 23:49:57 +0800 change data on host:st01-imps-retrms00-02.st01 success
+INFO: 2013-01-07 23:49:57 +0800 change data on host:st01-imps-retrms00-03.st01 success
+INFO: 2013-01-07 23:50:00 +0800 change data on host:st01-imps-retrms00-04.st01 success
+INFO: 2013-01-07 23:50:03 +0800 change data on host:st01-imps-retrms00-05.st01 success
+INFO: 2013-01-07 23:50:05 +0800 change data on host:st01-imps-retrms00-07.st01 success
+INFO: 2013-01-07 23:50:05 +0800 change data on host:st01-imps-retrms00-06.st01 success
+INFO: 2013-01-07 23:50:06 +0800 change data on host:st01-imps-retrms00-08.st01 success
+INFO: 2013-01-07 23:50:06 +0800 change data on host:st01-imps-retrms00-09.st01 success
+INFO: 2013-01-07 23:50:07 +0800 change data on host:st01-imps-retrms00-10.st01 success
+INFO: 2013-01-07 23:50:07 +0800 change data on host:st01-imps-retrms00-11.st01 success
+INFO: 2013-01-07 23:50:08 +0800 change data on host:st01-imps-retrms00-12.st01 success
+INFO: 2013-01-07 23:50:09 +0800 change data on host:st01-imps-retrms00-13.st01 success
+INFO: 2013-01-07 23:50:11 +0800 change data on host:st01-imps-retrms00-14.st01 success
+INFO: 2013-01-07 23:50:14 +0800 change data on host:st01-imps-retrms00-15.st01 success
+INFO: 2013-01-07 23:50:16 +0800 change data on host:st01-imps-retrms00-17.st01 success
+INFO: 2013-01-07 23:50:17 +0800 change data on host:st01-imps-retrms00-16.st01 success
+INFO: 2013-01-07 23:50:17 +0800 change data on host:st01-imps-retrms00-18.st01 success
+INFO: 2013-01-07 23:50:18 +0800 change data on host:st01-imps-retrms01-00.st01 success
+INFO: 2013-01-07 23:50:18 +0800 change data on host:st01-imps-retrms01-01.st01 success
+INFO: 2013-01-07 23:50:19 +0800 change data on host:st01-imps-retrms01-02.st01 success
+INFO: 2013-01-07 23:50:20 +0800 change data on host:st01-imps-retrms01-03.st01 success
+INFO: 2013-01-07 23:50:21 +0800 change data on host:st01-imps-retrms01-04.st01 success
+INFO: 2013-01-07 23:50:23 +0800 change data on host:st01-imps-retrms01-05.st01 success
+INFO: 2013-01-07 23:50:25 +0800 change data on host:st01-imps-retrms01-06.st01 success
+INFO: 2013-01-07 23:50:28 +0800 change data on host:st01-imps-retrms01-07.st01 success
+INFO: 2013-01-07 23:50:28 +0800 change data on host:st01-imps-retrms01-08.st01 success
+INFO: 2013-01-07 23:50:28 +0800 change data on host:st01-imps-retrms01-11.st01 success
+INFO: 2013-01-07 23:50:29 +0800 change data on host:st01-imps-retrms01-10.st01 success
+INFO: 2013-01-07 23:50:29 +0800 change data on host:st01-imps-retrms01-09.st01 success
+INFO: 2013-01-07 23:50:30 +0800 change data on host:st01-imps-retrms01-12.st01 success
+INFO: 2013-01-07 23:50:31 +0800 change data on host:st01-imps-retrms01-13.st01 success
+INFO: 2013-01-07 23:50:34 +0800 change data on host:st01-imps-retrms01-14.st01 success
+INFO: 2013-01-07 23:50:35 +0800 change data on host:st01-imps-retrms01-15.st01 success
+INFO: 2013-01-07 23:50:37 +0800 change data on host:st01-imps-retrms01-16.st01 success
+INFO: 2013-01-07 23:50:39 +0800 change data on host:st01-imps-retrms01-17.st01 success
+INFO: 2013-01-07 23:50:39 +0800 change data on host:st01-imps-retrms01-18.st01 success
+INFO: 2013-01-07 23:50:40 +0800 change data on host:st01-imps-retrms01-19.st01 success
+INFO: 2013-01-07 23:50:41 +0800 change data on host:st01-imps-retrms02-00.st01 success
+INFO: 2013-01-07 23:50:41 +0800 change data on host:st01-imps-retrms02-01.st01 success
+INFO: 2013-01-07 23:50:41 +0800 change data on host:st01-imps-retrms02-02.st01 success
+INFO: 2013-01-07 23:50:42 +0800 change data on host:st01-imps-retrms02-03.st01 success
+INFO: 2013-01-07 23:50:44 +0800 change data on host:st01-imps-retrms02-04.st01 success
+INFO: 2013-01-07 23:50:46 +0800 change data on host:st01-imps-retrms02-06.st01 success
+INFO: 2013-01-07 23:50:48 +0800 change data on host:st01-imps-retrms02-07.st01 success
+INFO: 2013-01-07 23:50:50 +0800 change data on host:st01-imps-retrms02-08.st01 success
+INFO: 2013-01-07 23:50:50 +0800 change data on host:st01-imps-retrms02-10.st01 success
+INFO: 2013-01-07 23:50:51 +0800 change data on host:st01-imps-retrms02-09.st01 success
+INFO: 2013-01-07 23:50:52 +0800 change data on host:st01-imps-retrms02-11.st01 success
+INFO: 2013-01-07 23:50:52 +0800 change data on host:st01-imps-retrms02-12.st01 success
+INFO: 2013-01-07 23:50:53 +0800 change data on host:st01-imps-retrms02-13.st01 success
+INFO: 2013-01-07 23:50:54 +0800 change data on host:st01-imps-retrms02-14.st01 success
+INFO: 2013-01-07 23:50:55 +0800 change data on host:st01-imps-retrms02-15.st01 success
+INFO: 2013-01-07 23:50:57 +0800 change data on host:st01-imps-retrms02-16.st01 success
+INFO: 2013-01-07 23:50:59 +0800 change data on host:st01-imps-retrms03-00.st01 success
+INFO: 2013-01-07 23:51:02 +0800 change data on host:st01-imps-retrms03-03.st01 success
+INFO: 2013-01-07 23:51:02 +0800 change data on host:st01-imps-retrms03-01.st01 success
+INFO: 2013-01-07 23:51:03 +0800 change data on host:st01-imps-retrms03-04.st01 success
+INFO: 2013-01-07 23:51:03 +0800 change data on host:st01-imps-retrms03-05.st01 success
+INFO: 2013-01-07 23:51:03 +0800 change data on host:st01-imps-retrms03-02.st01 success
+INFO: 2013-01-07 23:51:04 +0800 change data on host:st01-imps-retrms03-06.st01 success
+INFO: 2013-01-07 23:51:05 +0800 change data on host:st01-imps-retrms03-07.st01 success
+INFO: 2013-01-07 23:51:06 +0800 change data on host:st01-imps-retrms03-08.st01 success
+INFO: 2013-01-07 23:51:09 +0800 change data on host:st01-imps-retrms03-09.st01 success
+INFO: 2013-01-07 23:51:10 +0800 change data on host:st01-imps-retrms03-10.st01 success
+INFO: 2013-01-07 23:51:12 +0800 change data on host:st01-imps-retrms03-11.st01 success
+INFO: 2013-01-07 23:51:13 +0800 change data on host:st01-imps-retrms03-12.st01 success
+INFO: 2013-01-07 23:51:14 +0800 change data on host:st01-imps-retrms03-14.st01 success
+INFO: 2013-01-07 23:51:14 +0800 change data on host:st01-imps-retrms03-13.st01 success
+INFO: 2013-01-07 23:51:15 +0800 change data on host:st01-imps-retrms03-15.st01 success
+INFO: 2013-01-07 23:51:17 +0800 change data on host:tc-imads-rms00-00.tc success
+INFO: 2013-01-07 23:51:17 +0800 change data on host:tc-imads-rms00-01.tc success
+INFO: 2013-01-07 23:51:18 +0800 change data on host:tc-imads-rms00-02.tc success
+INFO: 2013-01-07 23:51:21 +0800 change data on host:tc-imads-rms00-03.tc success
+INFO: 2013-01-07 23:51:22 +0800 change data on host:tc-imads-rms01-00.tc success
+INFO: 2013-01-07 23:51:23 +0800 change data on host:tc-imads-rms01-01.tc success
+INFO: 2013-01-07 23:51:26 +0800 change data on host:tc-imps-rms00-00.tc success
+INFO: 2013-01-07 23:51:27 +0800 change data on host:tc-imps-rms00-01.tc success
+INFO: 2013-01-07 23:51:28 +0800 change data on host:tc-imads-rms01-02.tc success
+INFO: 2013-01-07 23:51:28 +0800 change data on host:tc-imads-rms01-03.tc success
+INFO: 2013-01-07 23:51:29 +0800 change data on host:tc-imps-rms00-05.tc success
+INFO: 2013-01-07 23:51:29 +0800 change data on host:tc-imps-rms00-03.tc success
+INFO: 2013-01-07 23:51:29 +0800 change data on host:tc-imps-rms00-04.tc success
+INFO: 2013-01-07 23:51:33 +0800 change data on host:tc-imps-rms00-06.tc success
+INFO: 2013-01-07 23:51:35 +0800 change data on host:tc-imps-rms00-07.tc success
+INFO: 2013-01-07 23:51:36 +0800 change data on host:tc-imps-rms00-08.tc success
+INFO: 2013-01-07 23:51:38 +0800 change data on host:tc-imps-rms00-09.tc success
+INFO: 2013-01-07 23:51:39 +0800 change data on host:tc-imps-rms01-02.tc success
+INFO: 2013-01-07 23:51:39 +0800 change data on host:tc-imps-rms00-10.tc success
+INFO: 2013-01-07 23:51:39 +0800 change data on host:tc-imps-rms00-12.tc success
+INFO: 2013-01-07 23:51:40 +0800 change data on host:tc-imps-rms00-11.tc success
+INFO: 2013-01-07 23:51:41 +0800 change data on host:tc-imps-rms01-00.tc success
+INFO: 2013-01-07 23:51:41 +0800 change data on host:tc-imps-rms01-01.tc success
+INFO: 2013-01-07 23:51:46 +0800 change data on host:tc-imps-rms01-03.tc success
+INFO: 2013-01-07 23:51:49 +0800 change data on host:tc-imps-rms01-05.tc success
+INFO: 2013-01-07 23:51:50 +0800 change data on host:tc-imps-rms01-08.tc success
+INFO: 2013-01-07 23:51:50 +0800 change data on host:tc-imps-rms01-04.tc success
+INFO: 2013-01-07 23:51:50 +0800 change data on host:tc-imps-rms01-09.tc success
+INFO: 2013-01-07 23:51:51 +0800 change data on host:tc-imps-rms01-10.tc success
+INFO: 2013-01-07 23:51:51 +0800 change data on host:tc-imps-rms01-07.tc success
+INFO: 2013-01-07 23:51:51 +0800 change data on host:tc-imps-rms01-11.tc success
+INFO: 2013-01-07 23:51:52 +0800 change data on host:tc-imps-rms01-12.tc success
+INFO: 2013-01-07 23:51:54 +0800 change data on host:yf-imads-rms00-00.yf01 success
+INFO: 2013-01-07 23:51:56 +0800 change data on host:yf-imads-rms00-01.yf01 success
+INFO: 2013-01-07 23:52:02 +0800 change data on host:yf-imads-rms00-02.yf01 success
+INFO: 2013-01-07 23:52:02 +0800 change data on host:yf-imads-rms00-03.yf01 success
+INFO: 2013-01-07 23:52:03 +0800 change data on host:yf-imads-rms01-00.yf01 success
+INFO: 2013-01-07 23:52:03 +0800 change data on host:yf-imads-rms00-06.yf01 success
+INFO: 2013-01-07 23:52:03 +0800 change data on host:yf-imads-rms00-04.yf01 success
+INFO: 2013-01-07 23:52:03 +0800 change data on host:yf-imads-rms00-07.yf01 success
+INFO: 2013-01-07 23:52:04 +0800 change data on host:yf-imads-rms00-05.yf01 success
+INFO: 2013-01-07 23:52:05 +0800 change data on host:yf-imads-rms01-01.yf01 success
+INFO: 2013-01-07 23:52:07 +0800 change data on host:yf-imads-rms01-02.yf01 success
+INFO: 2013-01-07 23:52:09 +0800 change data on host:yf-imads-rms01-03.yf01 success
+INFO: 2013-01-07 23:52:14 +0800 change data on host:yf-imads-rms01-04.yf01 success
+INFO: 2013-01-07 23:52:15 +0800 change data on host:yf-imads-rms02-01.yf01 success
+INFO: 2013-01-07 23:52:15 +0800 change data on host:yf-imads-rms01-05.yf01 success
+INFO: 2013-01-07 23:52:15 +0800 change data on host:yf-imads-rms02-00.yf01 success
+INFO: 2013-01-07 23:52:15 +0800 change data on host:yf-imads-rms02-02.yf01 success
+INFO: 2013-01-07 23:52:16 +0800 change data on host:yf-imads-rms01-07.yf01 success
+INFO: 2013-01-07 23:52:16 +0800 change data on host:yf-imads-rms01-06.yf01 success
+INFO: 2013-01-07 23:52:17 +0800 change data on host:yf-imads-rms02-03.yf01 success
+INFO: 2013-01-07 23:52:20 +0800 change data on host:yf-imads-rms02-04.yf01 success
+INFO: 2013-01-07 23:52:23 +0800 change data on host:yf-imads-rms02-05.yf01 success
+INFO: 2013-01-07 23:52:26 +0800 change data on host:yf-imads-rms02-07.yf01 success
+INFO: 2013-01-07 23:52:26 +0800 change data on host:yf-imads-rms03-00.yf01 success
+INFO: 2013-01-07 23:52:27 +0800 change data on host:yf-imads-rms03-02.yf01 success
+INFO: 2013-01-07 23:52:27 +0800 change data on host:yf-imads-rms03-01.yf01 success
+INFO: 2013-01-07 23:52:27 +0800 change data on host:yf-imads-rms02-06.yf01 success
+INFO: 2013-01-07 23:52:27 +0800 change data on host:yf-imads-rms03-03.yf01 success
+INFO: 2013-01-07 23:52:29 +0800 change data on host:yf-imads-rms03-04.yf01 success
+INFO: 2013-01-07 23:52:29 +0800 change data on host:yf-imads-rms03-05.yf01 success
+INFO: 2013-01-07 23:52:33 +0800 change data on host:yf-imads-rms03-06.yf01 success
+INFO: 2013-01-07 23:52:33 +0800 change data on host:yf-imads-rms03-07.yf01 success
+INFO: 2013-01-07 23:52:38 +0800 change data on host:yf-imps-rms00-00.yf01 success
+INFO: 2013-01-07 23:52:38 +0800 change data on host:yf-imps-rms00-02.yf01 success
+INFO: 2013-01-07 23:52:39 +0800 change data on host:yf-imps-rms00-05.yf01 success
+INFO: 2013-01-07 23:52:39 +0800 change data on host:yf-imps-rms00-03.yf01 success
+INFO: 2013-01-07 23:52:39 +0800 change data on host:yf-imps-rms00-06.yf01 success
+INFO: 2013-01-07 23:52:40 +0800 change data on host:yf-imps-rms00-04.yf01 success
+INFO: 2013-01-07 23:52:41 +0800 change data on host:yf-imps-rms00-07.yf01 success
+INFO: 2013-01-07 23:52:42 +0800 change data on host:yf-imps-rms00-08.yf01 success
+INFO: 2013-01-07 23:52:45 +0800 change data on host:yf-imps-rms00-09.yf01 success
+INFO: 2013-01-07 23:52:45 +0800 change data on host:yf-imps-rms00-10.yf01 success
+INFO: 2013-01-07 23:52:49 +0800 change data on host:yf-imps-rms00-13.yf01 success
+INFO: 2013-01-07 23:52:51 +0800 change data on host:yf-imps-rms01-01.yf01 success
+INFO: 2013-01-07 23:52:51 +0800 change data on host:yf-imps-rms01-02.yf01 success
+INFO: 2013-01-07 23:52:52 +0800 change data on host:yf-imps-rms01-03.yf01 success
+INFO: 2013-01-07 23:52:52 +0800 change data on host:yf-imps-rms01-00.yf01 success
+INFO: 2013-01-07 23:52:52 +0800 change data on host:yf-imps-rms01-04.yf01 success
+INFO: 2013-01-07 23:52:53 +0800 change data on host:yf-imps-rms01-07.yf01 success
+INFO: 2013-01-07 23:52:53 +0800 change data on host:yf-imps-rms01-08.yf01 success
+INFO: 2013-01-07 23:52:56 +0800 change data on host:yf-imps-rms01-10.yf01 success
+INFO: 2013-01-07 23:52:59 +0800 change data on host:yf-imps-rms01-09.yf01 success
+INFO: 2013-01-07 23:53:02 +0800 change data on host:yf-imps-rms02-00.yf01 success
+INFO: 2013-01-07 23:53:02 +0800 change data on host:yf-imps-rms02-01.yf01 success
+INFO: 2013-01-07 23:53:03 +0800 change data on host:yf-imps-rms01-11.yf01 success
+INFO: 2013-01-07 23:53:04 +0800 change data on host:yf-imps-rms02-02.yf01 success
+INFO: 2013-01-07 23:53:04 +0800 change data on host:yf-imps-rms02-03.yf01 success
+INFO: 2013-01-07 23:53:04 +0800 change data on host:yf-imps-rms02-04.yf01 success
+INFO: 2013-01-07 23:53:04 +0800 change data on host:yf-imps-rms02-05.yf01 success
+INFO: 2013-01-07 23:53:06 +0800 change data on host:yf-imps-rms02-06.yf01 success
+INFO: 2013-01-07 23:53:08 +0800 change data on host:yf-imps-rms02-07.yf01 success
+INFO: 2013-01-07 23:53:11 +0800 change data on host:yf-imps-rms02-08.yf01 success
+INFO: 2013-01-07 23:53:13 +0800 change data on host:yf-imps-rms02-09.yf01 success
+INFO: 2013-01-07 23:53:13 +0800 change data on host:yf-imps-rms02-10.yf01 success
+INFO: 2013-01-07 23:53:14 +0800 change data on host:yf-imps-rms02-11.yf01 success
+INFO: 2013-01-07 23:53:15 +0800 change data on host:yf-imps-rms02-12.yf01 success
+INFO: 2013-01-07 23:53:15 +0800 change data on host:yf-imps-rms02-13.yf01 success
+INFO: 2013-01-07 23:53:16 +0800 change data on host:yf-imps-rms02-23.yf01 success
+INFO: 2013-01-07 23:53:16 +0800 change data on host:yf-imps-rms02-24.yf01 success
+INFO: 2013-01-07 23:53:18 +0800 change data on host:yf-imps-rms02-25.yf01 success
+INFO: 2013-01-07 23:53:21 +0800 change data on host:yf-imps-rms02-26.yf01 success
+INFO: 2013-01-07 23:53:22 +0800 change data on host:yf-imps-rms03-00.yf01 success
+INFO: 2013-01-07 23:53:25 +0800 change data on host:yf-imps-rms03-01.yf01 success
+INFO: 2013-01-07 23:53:25 +0800 change data on host:yf-imps-rms03-03.yf01 success
+INFO: 2013-01-07 23:53:25 +0800 change data on host:yf-imps-rms03-02.yf01 success
+INFO: 2013-01-07 23:53:26 +0800 change data on host:yf-imps-rms03-04.yf01 success
+INFO: 2013-01-07 23:53:28 +0800 change data on host:yf-imps-rms03-08.yf01 success
+INFO: 2013-01-07 23:53:28 +0800 change data on host:yf-imps-rms03-07.yf01 success
+INFO: 2013-01-07 23:53:28 +0800 change data on host:yf-imps-rms03-05.yf01 success
+INFO: 2013-01-07 23:53:29 +0800 change data on host:yf-imps-rms03-09.yf01 success
+INFO: 2013-01-07 23:53:32 +0800 change data on host:yf-imps-pgrms00-01.yf01 success
+INFO: 2013-01-07 23:53:33 +0800 change data on host:yf-imps-rms03-10.yf01 success
+INFO: 2013-01-07 23:53:34 +0800 change data on host:yf-imps-rms03-11.yf01 success
+INFO: 2013-01-07 23:53:34 +0800 change data on host:yf-imps-pgrms00-03.yf01 success
+INFO: 2013-01-07 23:53:34 +0800 change data on host:yf-imps-pgrms00-04.yf01 success
+INFO: 2013-01-07 23:53:35 +0800 change data on host:yf-imps-pgrms00-02.yf01 success
+INFO: 2013-01-07 23:53:35 +0800 change data on host:yf-imps-pgrms00-05.yf01 success
+INFO: 2013-01-07 23:53:37 +0800 change data on host:yf-imps-rms03-13.yf01 success
+INFO: 2013-01-07 23:53:37 +0800 change data on host:yf-imps-rms03-12.yf01 success
+INFO: 2013-01-07 23:53:38 +0800 change data on host:yf-imps-pgrms00-06.yf01 success
+INFO: 2013-01-07 23:53:38 +0800 change data on host:yf-imps-rms03-26.yf01 success
+INFO: 2013-01-07 23:53:40 +0800 change data on host:yf-imps-pgrms00-08.yf01 success
+INFO: 2013-01-07 23:53:41 +0800 change data on host:yf-imps-pgrms00-07.yf01 success
+INFO: 2013-01-07 23:53:41 +0800 change data on host:yf-imps-pgrms01-04.yf01 success
+INFO: 2013-01-07 23:53:41 +0800 change data on host:yf-imps-pgrms01-02.yf01 success
+INFO: 2013-01-07 23:53:41 +0800 change data on host:yf-imps-pgrms01-03.yf01 success
+INFO: 2013-01-07 23:53:41 +0800 change data on host:yf-imps-pgrms01-01.yf01 success
+INFO: 2013-01-07 23:53:43 +0800 change data on host:yf-imps-pgrms01-05.yf01 success
+INFO: 2013-01-07 23:53:43 +0800 change data on host:yf-imps-pgrms01-06.yf01 success
+INFO: 2013-01-07 23:53:44 +0800 change data on host:yf-imps-pgrms01-07.yf01 success
+INFO: 2013-01-07 23:53:45 +0800 change data on host:yf-imps-pgrms01-08.yf01 success
+INFO: 2013-01-07 23:53:45 +0800 change data on host:yf-imps-pgrms02-01.yf01 success
+INFO: 2013-01-07 23:53:47 +0800 change data on host:yf-imps-pgrms02-02.yf01 success
+INFO: 2013-01-07 23:53:47 +0800 change data on host:yf-imps-pgrms02-06.yf01 success
+INFO: 2013-01-07 23:53:47 +0800 change data on host:yf-imps-pgrms02-03.yf01 success
+INFO: 2013-01-07 23:53:47 +0800 change data on host:yf-imps-pgrms02-05.yf01 success
+INFO: 2013-01-07 23:53:47 +0800 change data on host:yf-imps-pgrms02-04.yf01 success
+INFO: 2013-01-07 23:53:49 +0800 change data on host:yf-imps-pgrms02-07.yf01 success
+INFO: 2013-01-07 23:53:49 +0800 change data on host:yf-imps-pgrms02-08.yf01 success
+INFO: 2013-01-07 23:53:50 +0800 change data on host:yf-imps-pgrms03-01.yf01 success
+INFO: 2013-01-07 23:53:51 +0800 change data on host:yf-imps-pgrms03-02.yf01 success
+INFO: 2013-01-07 23:53:51 +0800 change data on host:yf-imps-pgrms03-03.yf01 success
+INFO: 2013-01-07 23:53:53 +0800 change data on host:yf-imps-pgrms03-06.yf01 success
+INFO: 2013-01-07 23:53:53 +0800 change data on host:yf-imps-pgrms03-04.yf01 success
+INFO: 2013-01-07 23:53:53 +0800 change data on host:yf-imps-pgrms03-07.yf01 success
+INFO: 2013-01-07 23:53:54 +0800 change data on host:yf-imps-pgrms03-05.yf01 success
+INFO: 2013-01-07 23:53:54 +0800 change data on host:yf-imps-pgrms03-08.yf01 success
+INFO: 2013-01-07 23:53:55 +0800 change data on host:hz01-imps-data01-retrms00-00.hz01 success
+INFO: 2013-01-07 23:53:56 +0800 change data on host:hz01-imps-data01-retrms01-00.hz01 success
+INFO: 2013-01-07 23:53:57 +0800 change data on host:hz01-imps-data01-retrms02-00.hz01 success
+INFO: 2013-01-07 23:53:58 +0800 change data on host:hz01-imps-data01-retrms03-00.hz01 success
+INFO: 2013-01-07 23:53:58 +0800 change data on host:hz01-imps-data03-retrms00-00.hz01 success
+INFO: 2013-01-07 23:54:00 +0800 change data on host:hz01-imps-data03-retrms02-00.hz01 success
+INFO: 2013-01-07 23:54:00 +0800 change data on host:hz01-imps-data03-retrms01-00.hz01 success
+INFO: 2013-01-07 23:54:00 +0800 change data on host:hz01-imps-data03-retrms03-00.hz01 success
+INFO: 2013-01-07 23:54:00 +0800 change data on host:hz01-imps-data04-retrms01-00.hz01 success
+INFO: 2013-01-07 23:54:01 +0800 change data on host:hz01-imps-data04-retrms00-00.hz01 success
+INFO: 2013-01-07 23:54:01 +0800 change data on host:hz01-imps-data04-retrms02-00.hz01 success
+INFO: 2013-01-07 23:54:03 +0800 change data on host:yf-imps-data01-retrms00-00.yf01 success
+INFO: 2013-01-07 23:54:04 +0800 change data on host:yf-imps-data01-retrms01-00.yf01 success
+INFO: 2013-01-07 23:54:04 +0800 change data on host:yf-imps-data01-retrms02-00.yf01 success
+INFO: 2013-01-07 23:54:05 +0800 change data on host:yf-imps-data01-retrms03-00.yf01 success
+INFO: 2013-01-07 23:54:06 +0800 change data on host:hz01-imps-data04-retrms03-00.hz01 success
+INFO: 2013-01-07 23:54:06 +0800 change data on host:yf-imps-data03-retrms00-00.yf01 success
+INFO: 2013-01-07 23:54:07 +0800 change data on host:yf-imps-data03-retrms01-00.yf01 success
+INFO: 2013-01-07 23:54:07 +0800 change data on host:yf-imps-data03-retrms02-00.yf01 success
+INFO: 2013-01-07 23:54:07 +0800 change data on host:yf-imps-data03-retrms03-00.yf01 success
+INFO: 2013-01-07 23:54:08 +0800 change data on host:yf-imps-data04-retrms00-00.yf01 success
+INFO: 2013-01-07 23:54:10 +0800 change data on host:yf-imps-data04-retrms01-00.yf01 success
+INFO: 2013-01-07 23:54:11 +0800 change data on host:yf-imps-data04-retrms02-00.yf01 success
+INFO: 2013-01-07 23:54:11 +0800 change data on host:yf-imps-data04-retrms03-00.yf01 success

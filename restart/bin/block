@@ -1,0 +1,12 @@
+#!/bin/bash
+Url="http://noah.baidu.com/noah/?r=block/command&params="
+TmpDir="/tmp/"
+TmpFile="$TmpDir"block.tmp
+wget -q --cache=on "$Url$*" --output-document="$TmpFile"
+if [ ! -f "$TmpFile" ]; then
+   echo "No Result...."
+   else
+   cat "$TmpFile"
+   echo ""
+   rm "$TmpFile"
+fi
